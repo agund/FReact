@@ -1,2 +1,0 @@
-# FReact
-Created with CodeSandbox
